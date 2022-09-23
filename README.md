@@ -1,6 +1,7 @@
 # centrifuge_free
 Python codes for the paper: Theoretical Comparison of Two Setups for Capillary Pressure Measurement by Centrifuge
 
+This repository includes the main functions and classes and a sample datafile. If you are interested in checking any simulation case, just check the file Cent_Sim_Kumar2014.py and run it. 
 
 
 
