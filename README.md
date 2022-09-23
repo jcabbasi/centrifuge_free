@@ -7,9 +7,13 @@ Python codes for the paper: Theoretical Comparison of Two Setups for Capillary P
 # Highlights
 
 • It is demonstrated that the same equilibrium was obtained in both OEO and TEO systems.
+
 • Only for the TEO case, the dynamic saturation profile was influenced by the viscosity ratio of fluids.
+
 • This OEO setup should help to measure counter-current relative permeability by an inverse calculation method.
+
 • Our analysis of the OEO setup showed that obtaining a unique relative permeability is guaranteed under different conditions.
+
 
 # Abstract
 
