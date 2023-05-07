@@ -267,6 +267,7 @@ class Simulate():
                     AAclc= np.delete(AA.copy(), SingArrCol.astype(int),0)
                     AAclc= np.delete(AAclc, SingArrCol.astype(int),1)
                     BBclc= np.delete(BB.copy(), SingArrCol.astype(int),0)                                                
+                    
                     # calculate
                     invAAclc=   np.linalg.inv(AAclc)
                     XXmatclc=   np.matmul(invAAclc, BBclc)
